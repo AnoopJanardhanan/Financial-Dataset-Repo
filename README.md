@@ -7,6 +7,7 @@ Country wise Highest & Lowest Sales & Profit
 •	France has the Highest Profit.
 
 Year Wise Highest & Lowest Sales & Profit
+
 •	Germany has highest Sales & Profit in 2013.
 •	Mexico has the lowest Sales in 2013.
 •	United States of America has the lowest profit in 2013.
@@ -15,6 +16,7 @@ Year Wise Highest & Lowest Sales & Profit
 •	Mexico has the lowest Sales & Profit in 2014.
 
 Product wise Highest & Lowest Sales and Profit
+
 •	Paseo has the highest Sales & Profit.
 •	Carretera has the lowest Sales & Profit.
 
